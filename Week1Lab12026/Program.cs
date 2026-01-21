@@ -13,7 +13,7 @@ namespace Week1Lab12026
                 StudentID: "S00274217",
                 StudentName: "Oleksandr Keshel",
                 activityName: "Rad302 2026 Week 1 Lab 1",
-                Task: "Database Initializer setup successfully"
+                Task: "Creating controllers and Views"
             );
 
             var builder = WebApplication.CreateBuilder(args);
